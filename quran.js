@@ -1,0 +1,1 @@
+quran = Npm.require('quran');

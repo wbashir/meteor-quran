@@ -1,0 +1,8 @@
+{
+    "name": "meteor-quran",
+    "description": "Meteor smart package for quran.",
+    "homepage": "https://github.com/warsamebashir/meteor-quran",
+    "author": "Warsame Bashir",
+    "version": "0.0.3",
+    "git": "https://github.com/warsamebashir/meteor-quran.git"
+}
