@@ -7,6 +7,5 @@ Npm.depends({
 });
 
 Package.on_use(function (api) {
-    api.add_files('quran.js', 'server');
-    api.add_files('quran.js', 'client');
+    api.add_files('quran.js', ['server', 'client']);
 });
